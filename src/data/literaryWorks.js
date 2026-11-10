@@ -31,9 +31,14 @@ export const literaryWorks = [
     description: "The climactic theophany from the Book of Job where God speaks from the cosmic tempest, interrogating human understanding of suffering, cosmic order, and divine majesty.",
     image: voiceImg,
     // =========================================================================
-    // INSERT YOUR PERSONAL INSIGHT HERE FOR: The Voice Out of the Whirlwind
+    // 👇👇👇 ALDRIN: TYPE OR PASTE YOUR PERSONAL INSIGHT HERE 👇👇👇
+    // You can use backticks (``) so you can write multiple paragraphs freely!
+    // Example:
+    // personalInsight: `First paragraph here...
+    //
+    // Second paragraph here...`,
     // =========================================================================
-    personalInsight: "",
+    personalInsight: `The story The Voice Out of the Whirlwind reminds me that there are times in life when I question why certain problems happen to me, especially when things do not go according to my plans. As a student, I sometimes feel stressed and overwhelmed by school requirements, responsibilities, and the pressure to succeed. Like Job, I realize that I cannot always understand everything that happens in my life. However, the story teaches me that I should remain patient, humble, and faithful even during difficult times. I learned that I do not need to have all the answers to keep moving forward. Instead of focusing only on my problems, I should trust the process, learn from my experiences, and continue doing my best. This story reminds me that even when I do not understand what is happening in my life, I can still choose to remain strong and keep going.`,
     isFavorite: false
   },
   {
@@ -45,9 +50,10 @@ export const literaryWorks = [
     description: "The celebrated book of 'The Winning of Friends' (Mitraprapti), illustrating how diverse animals forge mutual trust, solidarity, and strategic wisdom to overcome adversity.",
     image: panchatantraImg,
     // =========================================================================
-    // INSERT YOUR PERSONAL INSIGHT HERE FOR: The Panchatantra – Mitraprapti
+    // 👇👇👇 ALDRIN: TYPE OR PASTE YOUR PERSONAL INSIGHT HERE 👇👇👇
+    // You can use backticks (``) so you can write multiple paragraphs freely!
     // =========================================================================
-    personalInsight: "",
+    personalInsight: ` The story of Mitraprapti teaches me the importance of friendship, trust, and helping one another. I can relate to the characters because, in life, we also face problems that are easier to solve when we have people who support us. As a student, I sometimes experience challenges with schoolwork and other responsibilities, and having good friends makes these problems easier to handle. The story reminds me that we should choose our friends wisely, help each other during hard times, and value the people who stay by our side. I learned that true friendship is not just about having fun together, but also about supporting each other when life becomes difficult.`,
     isFavorite: false
   },
   {
@@ -59,9 +65,10 @@ export const literaryWorks = [
     description: "The monumental epic chronicle of Prince Rama, Sita's devotion, Lakshmana's loyalty, and Hanuman's selflessness, embodying the ideals of dharma, duty, and righteous sacrifice.",
     image: ramayanaImg,
     // =========================================================================
-    // INSERT YOUR PERSONAL INSIGHT HERE FOR: The Ramayana
+    // 👇👇👇 ALDRIN: TYPE OR PASTE YOUR PERSONAL INSIGHT HERE 👇👇👇
+    // You can use backticks (``) so you can write multiple paragraphs freely!
     // =========================================================================
-    personalInsight: "",
+    personalInsight: `The story Ramayana teaches me the importance of loyalty, love, and doing what is right. I can relate to Rama because he stays strong and continues his journey even when he faces many problems. As a student, I also face challenges that sometimes make me feel tired and stressed. Like Rama, I should not give up easily and should continue doing my best. The story also reminds me to value my family and the people who support me. I learned that no matter how difficult life becomes, I should stay strong, be loyal to the people I love, and always choose to do what is right.`,
     isFavorite: false
   },
   {
@@ -73,9 +80,10 @@ export const literaryWorks = [
     description: "The world's longest epic poem detailing the dynastic conflict between the Pandavas and Kauravas, encompassing the Bhagavad Gita and profound inquiries into moral duty.",
     image: mahabharataImg,
     // =========================================================================
-    // INSERT YOUR PERSONAL INSIGHT HERE FOR: The Mahabharata
+    // 👇👇👇 ALDRIN: TYPE OR PASTE YOUR PERSONAL INSIGHT HERE 👇👇👇
+    // You can use backticks (``) so you can write multiple paragraphs freely!
     // =========================================================================
-    personalInsight: "",
+    personalInsight: `The story Mahabharata teaches me the importance of honesty, courage, and doing what is right. I can relate to Arjuna because he feels confused when he faces a difficult decision. As a student, I also experience times when I do not know what to do, especially when I face problems or pressure. Like Arjuna, I need to think carefully and choose the right path. This story reminds me that making decisions is not always easy, but I should always try to do what is right. I learned that even when I feel confused or afraid, I should be brave, think wisely, and stand by my values.`,
     isFavorite: false
   },
   {
@@ -87,9 +95,10 @@ export const literaryWorks = [
     description: "Homer's tragic masterpiece of martial fury, the wrath of Achilles, the fall of Hector, and the devastating human costs of war beneath the gaze of the Olympian gods.",
     image: iliadImg,
     // =========================================================================
-    // INSERT YOUR PERSONAL INSIGHT HERE FOR: The Iliad
+    // 👇👇👇 ALDRIN: TYPE OR PASTE YOUR PERSONAL INSIGHT HERE 👇👇👇
+    // You can use backticks (``) so you can write multiple paragraphs freely!
     // =========================================================================
-    personalInsight: "",
+    personalInsight: `The story The Iliad teaches me that anger and pride can lead to serious problems. I can relate to Achilles because he lets his anger affect his actions. As a student, I sometimes feel frustrated when things do not go the way I want. However, this story reminds me to control my emotions and think before I act. It also teaches me that fighting is not always the best way to solve problems. I learned that I should control my anger, stay humble, and think about the consequences of my actions before making a decision.`,
     isFavorite: false
   },
   {
@@ -101,9 +110,11 @@ export const literaryWorks = [
     description: "The founding epic of Western narrative humanism: Odysseus' ten-year voyage home to Ithaca, choosing mortal Penelope and human grief over Calypso's empty immortality.",
     image: odysseyImg,
     // =========================================================================
-    // INSERT YOUR PERSONAL INSIGHT HERE FOR: The Odyssey (MY FAVORITE MASTERPIECE)
+    // 👇👇👇 ALDRIN: TYPE OR PASTE YOUR PERSONAL INSIGHT HERE FOR: THE ODYSSEY 👇👇👇
+    // (This is your Favorite Literary Masterpiece)
+    // You can write multiple paragraphs freely between the backticks (``)!
     // =========================================================================
-    personalInsight: "",
+    personalInsight: `The story The Odyssey teaches me the importance of patience, courage, and never giving up. I can relate to Odysseus because he faces many problems on his journey but continues to find a way to return home. As a student, I also face challenges with schoolwork and other responsibilities. Sometimes, I feel tired and want to give up, but Odysseus reminds me to keep going even when things get difficult. I learned that success takes time, and I should stay strong, be patient, and never give up on my goals even when the journey is hard.`,
     isFavorite: true // MY FAVORITE LITERARY MASTERPIECE
   },
   {
@@ -115,9 +126,10 @@ export const literaryWorks = [
     description: "The supreme chanson de geste of medieval Europe, immortalizing Count Roland's heroic rear-guard defense, chivalric code, Oliver's wisdom, and Charlemagne's holy war.",
     image: rolandImg,
     // =========================================================================
-    // INSERT YOUR PERSONAL INSIGHT HERE FOR: The Song of Roland
+    // 👇👇👇 ALDRIN: TYPE OR PASTE YOUR PERSONAL INSIGHT HERE 👇👇👇
+    // You can use backticks (``) so you can write multiple paragraphs freely!
     // =========================================================================
-    personalInsight: "",
+    personalInsight: `The story The Song of Roland teaches me the importance of courage, loyalty, and responsibility. I can relate to Roland because he is brave and loyal to his king and his fellow soldiers. As a student, I also have responsibilities that I need to fulfill, even when they are difficult. This story reminds me to be brave when facing problems and to take my responsibilities seriously. However, I also learned that pride can sometimes lead to bad decisions. I learned that I should be loyal and brave, but I should also know when to ask for help and think carefully before making decisions.`,
     isFavorite: false
   },
   {
@@ -129,9 +141,10 @@ export const literaryWorks = [
     description: "Widely regarded as the world's first novel, capturing the aesthetic refined court life of Shining Genji and the poignant Buddhist philosophy of mono no aware (the pathos of things).",
     image: genjiImg,
     // =========================================================================
-    // INSERT YOUR PERSONAL INSIGHT HERE FOR: The Tale of Genji
+    // 👇👇👇 ALDRIN: TYPE OR PASTE YOUR PERSONAL INSIGHT HERE 👇👇👇
+    // You can use backticks (``) so you can write multiple paragraphs freely!
     // =========================================================================
-    personalInsight: "",
+    personalInsight: `The story The Tale of Genji teaches me that our actions and choices can affect our lives and relationships with others. I can relate to Genji because he experiences love, happiness, and sadness in his life. Like him, I also experience different emotions and learn from my experiences. As a student, I realize that not everything will go the way I want, especially when it comes to relationships and personal goals. I learned that I should value the people around me, think carefully about my choices, and understand that every decision has consequences.`,
     isFavorite: false
   },
   {
@@ -143,9 +156,10 @@ export const literaryWorks = [
     description: "Hugo's monumental humanitarian masterpiece charting Jean Valjean's spiritual redemption, Javert's unyielding legalism, Fantine's sacrifice, and the 1832 Paris student rebellion.",
     image: lesMisImg,
     // =========================================================================
-    // INSERT YOUR PERSONAL INSIGHT HERE FOR: Les Misérables
+    // 👇👇👇 ALDRIN: TYPE OR PASTE YOUR PERSONAL INSIGHT HERE 👇👇👇
+    // You can use backticks (``) so you can write multiple paragraphs freely!
     // =========================================================================
-    personalInsight: "",
+    personalInsight: `The story Les Misérables teaches me the importance of kindness, forgiveness, and helping others. I can relate to Jean Valjean because he tries to become a better person despite the problems he faces in life. As a student, I also make mistakes, but I believe that I can learn from them and improve myself. This story reminds me that we should not judge people based on their past because everyone deserves a chance to change. I learned that our mistakes do not define who we are, and we can always choose to do better and treat others with kindness.`,
     isFavorite: false
   },
   {
@@ -157,9 +171,10 @@ export const literaryWorks = [
     description: "A profound lyric hymn of refuge, divine sanctuary, and spiritual fortitude, invoking the shelter of the Most High and protection beneath the wings of grace.",
     image: psalmImg,
     // =========================================================================
-    // INSERT YOUR PERSONAL INSIGHT HERE FOR: Psalm 91
+    // 👇👇👇 ALDRIN: TYPE OR PASTE YOUR PERSONAL INSIGHT HERE 👇👇👇
+    // You can use backticks (``) so you can write multiple paragraphs freely!
     // =========================================================================
-    personalInsight: "",
+    personalInsight: `Psalm 91 teaches me to trust God, especially when I am afraid or facing problems. As a student, there are times when I feel stressed about schoolwork, my future, and my responsibilities. This Psalm reminds me that I am not alone because I can always pray to God and ask for His guidance and protection. It also gives me hope when life becomes difficult. I learned that even when I face problems and feel afraid, I should trust God, keep my faith strong, and believe that He will guide me through difficult times.`,
     isFavorite: false
   }
 ];

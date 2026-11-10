@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  /* Paper grain effect subtle overlay */
+  .paper-grain {
+    background-image: radial-gradient(rgba(197, 160, 89, 0.04) 1px, transparent 0);
+    background-size: 24px 24px;
+  }
+
+  .dark .paper-grain {
+    background-image: radial-gradient(rgba(216, 178, 110, 0.03) 1px, transparent 0);
+    background-size: 24px 24px;
+  }
+
+  /* Drop cap for editorial opening */
+  .drop-cap::first-letter {
+    font-family: 'Cinzel', serif;
+    font-size: 3.75rem;
+    line-height: 0.85;
+    float: left;
+    margin-top: 0.15em;
+    margin-right: 0.2em;
+    margin-bottom: -0.1em;
+    color: #9E3247;
+    font-weight: 700;
+  }
+
+  .dark .drop-cap::first-letter {
+    color: #DFC25E;
+  }
+
+  /* Custom classic scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #FAF8F3;
+  }
+  .dark ::-webkit-scrollbar-track {
+    background: #0C1017;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #D5C4A6;
+    border-radius: 4px;
+  }
+  .dark ::-webkit-scrollbar-thumb {
+    background: #334155;
+    border-radius: 4px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #C5A059;
+  }
+}
+
+/* Sepia tone theme variant */
+html.theme-sepia {
+  background-color: #F4EBD9 !important;
+  color: #2D2319 !important;
+}
+html.theme-sepia .bg-\[\#FAF8F3\] {
+  background-color: #F4EBD9 !important;
+}
+html.theme-sepia .bg-white {
+  background-color: #FAF4E8 !important;
+}
+html.theme-sepia .bg-parchment-50 {
+  background-color: #FAF4E8 !important;
+}
+html.theme-sepia .bg-parchment-100 {
+  background-color: #EFE4CE !important;
+}
+html.theme-sepia .border-parchment-200 {
+  border-color: #DECEB4 !important;
+}
+
